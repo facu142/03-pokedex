@@ -5,7 +5,7 @@
 /mongo
 .env
 
-# yarn.lock
+yarn.lock
 
 # Logs
 logs
